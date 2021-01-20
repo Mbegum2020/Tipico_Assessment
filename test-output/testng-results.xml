@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50110" started-at="2021-01-20T03:03:41Z" finished-at="2021-01-20T03:04:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50110" started-at="2021-01-20T03:03:41Z" finished-at="2021-01-20T03:04:31Z">
+      <class name="MunniWork">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:MunniWork@1810399e]" name="openbrowser" is-config="true" duration-ms="11267" started-at="2021-01-19T22:03:41Z" finished-at="2021-01-19T22:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="Search_Selenium_WebDriver()[pri:1, instance:MunniWork@1810399e]" name="Search_Selenium_WebDriver" duration-ms="7499" started-at="2021-01-19T22:03:52Z" finished-at="2021-01-19T22:04:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Selenium_WebDriver -->
+        <test-method status="PASS" signature="Search_Javascript_WebDriverIO()[pri:2, instance:MunniWork@1810399e]" name="Search_Javascript_WebDriverIO" duration-ms="6632" started-at="2021-01-19T22:04:00Z" finished-at="2021-01-19T22:04:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Javascript_WebDriverIO -->
+        <test-method status="PASS" signature="Filter_By_US()[pri:3, instance:MunniWork@1810399e]" name="Filter_By_US" duration-ms="15954" started-at="2021-01-19T22:04:06Z" finished-at="2021-01-19T22:04:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter_By_US -->
+        <test-method status="PASS" signature="Filter_By_Days()[pri:4, instance:MunniWork@1810399e]" name="Filter_By_Days" duration-ms="8536" started-at="2021-01-19T22:04:22Z" finished-at="2021-01-19T22:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter_By_Days -->
+        <test-method status="PASS" signature="close()[pri:0, instance:MunniWork@1810399e]" name="close" is-config="true" duration-ms="174" started-at="2021-01-19T22:04:31Z" finished-at="2021-01-19T22:04:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- MunniWork -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
